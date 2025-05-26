@@ -53,6 +53,7 @@ jobs:
 
   # This workflow contains a single job called "build"
   github-runner:
+    name: GitHub Runner
     permissions:
       id-token: write
     # The type of runner that the job will run on
